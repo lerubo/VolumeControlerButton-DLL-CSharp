@@ -1,0 +1,18 @@
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\bin\Debug\ControlVolumen2.dll
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\bin\Debug\ControlVolumen2.pdb
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.csprojResolveAssemblyReference.cache
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.Properties.Resources.resources
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.Controlador.resources
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.csproj.GenerateResource.Cache
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.csproj.CoreCompileInputs.cache
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.dll
+c:\users\lerubo\source\repos\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.pdb
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\bin\Debug\ControlVolumen2.dll
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\bin\Debug\ControlVolumen2.pdb
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.csprojResolveAssemblyReference.cache
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.Properties.Resources.resources
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.Controlador.resources
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.csproj.GenerateResource.cache
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.csproj.CoreCompileInputs.cache
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.dll
+C:\Users\lerubo\Google Drive\Linkia - Ucoc\Segundo DAM\Primer Cuatrimestre\M07 Desarrollo de interfaces\UF1\Actividad 3\ControlVolumen2\ControlVolumen2\obj\Debug\ControlVolumen2.pdb
